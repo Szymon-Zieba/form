@@ -9,22 +9,22 @@
             <form>
                 <div class="form">
                     <VLabel label="name" />
-                    <VInput type="text" />
+                    <VInput required type="text" />
                 </div>
 
                 <div class="form">    
                     <VLabel label="lastName"/>
-                    <VInput type="text" />
+                    <VInput required type="text" />
                 </div>    
 
                 <div class="form">
                     <VLabel label="email" />
-                    <VInput type="email" />
+                    <VInput required type="email" />
                 </div>
 
                 <div class="form">
                     <VLabel label="description" />
-                    <VTextArea />
+                    <VTextArea required/>
                 </div>
 
                 <div class="form">

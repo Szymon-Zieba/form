@@ -1,5 +1,5 @@
 <template>
-    <textarea rows="10" cols="21" class="VTextArea"> </textarea>
+    <textarea rows="5" cols="21" class="VTextArea"> </textarea>
 </template>
 
 <script>

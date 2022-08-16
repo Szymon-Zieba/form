@@ -1,5 +1,7 @@
 # form
 
+Simple form in Vue with i18n
+
 ## Project setup
 ```
 npm install
